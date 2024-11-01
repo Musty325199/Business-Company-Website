@@ -1,0 +1,22 @@
+.navbar{
+    background: #0C3C60;
+    padding-left: 3rem;
+    width: 100%;
+    position: fixed;
+    left: 0%;
+    top: 0%;
+
+}
+
+.logo{
+    margin-right: 10rem;
+    color: white;
+}
+
+.me-auto{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+

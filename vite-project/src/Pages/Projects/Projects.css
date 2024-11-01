@@ -1,0 +1,16 @@
+.projects{
+    width: 100%;
+    height: 170vh;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 3rem;
+    align-content: center;
+    display: grid;
+    padding: 1rem;
+}
+
+@media (max-width: 768px){
+    .projects{
+        grid-template-columns: 1fr;
+        height: 200vh;
+    }
+}
